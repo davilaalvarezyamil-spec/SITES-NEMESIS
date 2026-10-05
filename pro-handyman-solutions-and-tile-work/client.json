@@ -1,0 +1,155 @@
+{
+  "_note": "Filled by the lead finder. Replace every \"FILL IN\" value, then run: node build.js",
+  "businessName": "Pro Handyman solutions and Tile work.",
+  "logoText": "PRO",
+  "logoSub": "Handyman solutions and Tile work.",
+  "trade": "plumbing",
+  "tradeTitle": "Plumbing",
+  "phone": "(813) 822-7076",
+  "email": "FILL IN",
+  "city": "Riverview",
+  "state": "FL",
+  "regionLine": "Riverview & surrounding areas",
+  "address": "7421 US-301, Riverview, FL 33578",
+  "hours": "Monday: 8:00 AM – 5:00 PM · Tuesday: 8:00 AM – 5:00 PM · Wednesday: 8:00 AM – 5:00 PM · Thursday: 8:00 AM – 5:00 PM · Friday: 8:00 AM – 5:00 PM · Saturday: 10:00 AM – 3:00 PM · Sunday: Closed",
+  "license": "FILL IN",
+  "rating": "5",
+  "reviewCount": "108",
+  "reviewsUrl": "https://maps.google.com/?cid=4902438448731056481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "yearsInBusiness": "FILL IN",
+  "newCustomerOffer": "Ask about our new customer discount",
+  "colors": {
+    "brand": "#0F2C4C",
+    "brandDeep": "#0A1F36",
+    "cta": "#F26B1D",
+    "ctaDeep": "#D2560F"
+  },
+  "heroHeadline": "Plumbing fixed right the first time.",
+  "heroSub": "Licensed local plumbers serving Riverview and nearby. Upfront pricing before any work starts.",
+  "copy": {
+    "metaDescription": "Pro Handyman solutions and Tile work.: plumbing in Riverview. Call (813) 822-7076 for a free quote.",
+    "heroEyebrow": "Riverview's local plumbing team",
+    "quoteSub": "Tell us what you need and we'll get back to you quickly.",
+    "whyEyebrow": "Why homeowners choose us",
+    "whyHeading": "Local, licensed, and reliable",
+    "whyText": "We're a Riverview company, not a call center. You get a straight answer, a fair price, and people who treat your home like their own.",
+    "reviewsHeading": "What your neighbors say",
+    "finalHeading": "Need a plumber?",
+    "finalText": "Call now or request a free quote and we'll get right back to you.",
+    "topbarStatus": "Fast, local plumbing service",
+    "callLabel": "Call now",
+    "problemLabel": "What's the problem?",
+    "problemPlaceholder": "e.g. Water heater leaking from the bottom, no hot water since this morning",
+    "stripText": "Burst pipe or sewage backup? Call us now.",
+    "servicesHeading": "Plumbing services for your home",
+    "servicesIntro": "From a dripping faucet to a full repipe, one call gets it handled by a licensed pro.",
+    "statValue": "100%",
+    "statLabel": "Upfront pricing",
+    "whyPoints": [
+      {
+        "title": "Upfront pricing",
+        "text": "You approve the price before we start. No hourly surprises."
+      },
+      {
+        "title": "On-time arrival",
+        "text": "We show up in the window we give you and keep you posted."
+      },
+      {
+        "title": "Clean-home promise",
+        "text": "Shoe covers, drop cloths, and a clean work area when we leave."
+      },
+      {
+        "title": "Work guaranteed",
+        "text": "If it's not right, we come back and make it right."
+      }
+    ],
+    "stepsHeading": "Fixed in three steps",
+    "steps": [
+      {
+        "title": "Call or request a quote",
+        "text": "Reach a real person or send the form and we get right back to you."
+      },
+      {
+        "title": "We diagnose and price it",
+        "text": "We find the cause, explain your options, and give you a price before any work begins."
+      },
+      {
+        "title": "Fixed and cleaned up",
+        "text": "We finish the job, test it with you, and clean up."
+      }
+    ]
+  },
+  "services": [
+    {
+      "icon": "drop",
+      "name": "Leak Detection & Repair",
+      "text": "Hidden pipe leaks and running water bills tracked down and fixed fast."
+    },
+    {
+      "icon": "drain",
+      "name": "Drain Cleaning",
+      "text": "Kitchen, tub and main line clogs cleared with professional equipment."
+    },
+    {
+      "icon": "heater",
+      "name": "Water Heaters",
+      "text": "Tank and tankless repair or replacement, installed to code."
+    },
+    {
+      "icon": "pipe",
+      "name": "Repiping",
+      "text": "Old, corroded or failing pipes replaced with modern materials."
+    },
+    {
+      "icon": "sewer",
+      "name": "Sewer Line Repair",
+      "text": "Camera inspections, root removal and sewer line repair."
+    },
+    {
+      "icon": "alarm",
+      "name": "Emergency Plumbing",
+      "text": "Burst pipes, overflowing toilets and backups handled fast."
+    }
+  ],
+  "areas": [
+    "Riverview"
+  ],
+  "reviews": [
+    {
+      "name": "Caroline H.",
+      "town": "Riverview",
+      "text": "The work done at my home wa  the replacement of the kitchen  ink floor and drywall in the garage. O car  ent Roberto, who did an excellent job. He wa  very meticulou , en uring that the job wa  done to perfection. O car  tayed in touch and wa  on top of what wa  being done, and the progre . I can't "
+    },
+    {
+      "name": "JesusIsLoveTR",
+      "town": "Riverview",
+      "text": "I am beyond impre ed with the  ervice we received from thi  company. O car and hi  crew delivered re ult  that exceeded my expectation . I received a rea onable quote to have my garage door  painted. All of my que tion  were an wered promptly and  everything went  moothly from the fir t call to comp"
+    },
+    {
+      "name": "Nicole P.",
+      "town": "Riverview",
+      "text": "We had a great experience with Pro Handyman and would recommend their work. They  pent 2 day  at our hou e replacing our bathroom tile and in talling kitchen LVP. The guy  were really hard worker , efficient, courteou , and  howed up on time. I appreciated O car being up front about price and making"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes. Call or send the form and we will set up a time to look at the job and give you a price."
+    },
+    {
+      "q": "How soon can you come out?",
+      "a": "Most calls in our service area get scheduled quickly. Call us and we will give you the next available time."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes. We are fully licensed and insured, and we stand behind our work."
+    },
+    {
+      "q": "Do you offer financing?",
+      "a": "Ask us about payment options for larger jobs."
+    }
+  ],
+  "formEndpoint": "/.netlify/functions/lead",
+  "schemaType": "Plumber",
+  "_design": "regional: palette and motifs drawn from the business's town and region"
+}
